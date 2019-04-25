@@ -1,5 +1,7 @@
 # caravan
 
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/naddor/caravan/master)
+
 CARAVAN is a project whose aim is to move the creation of large-sample hydrological (LSH) datasets to the cloud. LSH datasets include data from large samples (tens to thousands) of catchments and enable researchers to go beyond individual case studies and derive robust conclusions on hydrological processes and models. 
 
 CARVAN should enable users to create LSH datasets similar to the [CAMELS](https://ncar.github.io/hydrology/datasets/CAMELS_timeseries) (Catchment Attributes and MEteorology for Large-sample Studies) dataset on the cloud, eventually leading to a suite of CAMELS, aka a [CARVAN](https://en.wikipedia.org/wiki/Camel_train).

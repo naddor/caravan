@@ -24,3 +24,5 @@ avrgs <- extract(soil_dat,
                  fun = mean,
                  na.rm = T,
                  df = T)
+
+save.image(paste0(dir_caravan,'image.rdata'))
